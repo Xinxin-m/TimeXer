@@ -1,0 +1,12 @@
+__pycache__/
+.venv_timexer/
+dataset/
+checkpoints/
+.DS_Store
+*.ipynb
+exp/
+*.pyc
+*.log
+*.pkl
+*.h5
+*.npy
